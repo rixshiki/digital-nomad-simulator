@@ -1,3 +1,5 @@
+Game Link: https://rixshiki.github.io/digital-nomad-simulator
+
 # digital-nomad-simulator
  [Game] The vibe code Digital Nomad Simulator game
 
@@ -46,9 +48,9 @@ Level Equipment: Perks/Effects
 3 Ergonomic Chair: Reduces the frequency of "Back Pain" random events.
 4 MacBook Pro: Unlocks High-end contracts with 2x Income.
 
-####################
+--------------------
 Endings
-####################
+--------------------
 Bad Ending: "Back to Mom's House" – No money to paid the rent for 2 times and the landlord kicks you out.
 Sad Ending: "Permanent Burnout" – Hitting 100 Stress for 3 times. You quit programming to sell meatballs on the street.
 Good Ending: "The Ultimate Nomad" – Accumulate 1,000,000 ฿ in savings. You "retire" to a life of coding leisurely on a tropical beach.
